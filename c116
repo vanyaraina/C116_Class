@@ -1,0 +1,4 @@
+import numpy as np
+
+arr = np.array([[["dog", "cat"], ["rat", "bat", "sat"], ["hey", "hello"]]])
+print(arr.shape)
